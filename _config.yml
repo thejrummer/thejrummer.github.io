@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "jarrett thompson//thejrummer"
+title                    : "jarrett thompson // thejrummer"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "jarrett thompson"
   avatar           : "jarrettSmilingDrumming.jpg"
-  bio              : "drummer//percussionist//music technologist//graphic designer//painter"
+  bio              : "drummer // percussionist // music technologist // graphic designer // painter"
   location         : "statesboro, georgia"
   employer         :  
   pubmed           : 
