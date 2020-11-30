@@ -10,7 +10,9 @@ redirect_from:
 
 I graduated from Georgia Southern University with bachelor's degree in music performance with an emphasis in percussion performance, and I am currently persuing a master's degree in music technology. My current work is in interactive drumset composition.
 
-# Header 1
+
+
+<!-- # Header 1
 ## Header 2
 ### Header 3
 *italic*
@@ -55,4 +57,4 @@ Example: editing a markdown file for a talk
 
 For more info
 ------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful. -->

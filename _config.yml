@@ -9,8 +9,8 @@
 locale                   : "en-US"
 title                    : "jarrett thompson // thejrummer"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
+name                     : &name "Jarrett Thompson"
+description              : &description "drummer // percussionist // music technologist"
 url                      : https://thejrummer.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -185,6 +185,16 @@ collections:
     output: true
     permalink: /:collection/:path/
   talks:
+    output: true
+    permalink: /:collection/:path/
+
+  compositions:
+    output: true
+    permalink: /:collection/:path/
+  performances:
+    output: true
+    permalink: /:collection/:path/
+  projects:
     output: true
     permalink: /:collection/:path/
 
