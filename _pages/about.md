@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "yeah, i'm gonna take some adderall and wok on my max patch"
+title: "maker of art, music, and messy max patches"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-One day, in the wee small hours of the morning, shae the dragon woke loren up by gastric propulsion to the angkle. Surprisingly, we made it out of the donut shop and happily jumped on our train back the hell. 
+I graduated from Georgia Southern University with bachelor's degree in music performance with an emphasis in percussion performance, and I am currently persuing a master's degree in music technology. My current work is in interactive drumset composition.
+
+# Header 1
+## Header 2
+### Header 3
+*italic*
+**bold**
+***bold and italic***
+
 
 A data-driven personal website
 ======
