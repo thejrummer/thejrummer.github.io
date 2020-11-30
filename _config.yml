@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "jarrett thompson//thejrummer
+title                    : "jarrett thompson//thejrummer"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "jarrett thompson
+  name             : "jarrett thompson"
   avatar           : "jarrettSmilingDrumming.jpg"
-  bio              : "drummer//percussionist//music technologist//graphic designer//painter
-  location         : "statesboro, georgia
+  bio              : "drummer//percussionist//music technologist//graphic designer//painter"
+  location         : "statesboro, georgia"
   employer         :  
   pubmed           : 
   googlescholar    : 
-  email            :  "jarretttthompson@gmail.com
+  email            :  "jarretttthompson@gmail.com"
   researchgate     :  
   uri              :
   bitbucket        :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : thejrummer
+  github           : "thejrummer"
   google_plus      :
   keybase          :
   instagram        :
