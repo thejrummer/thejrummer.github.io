@@ -1,7 +1,7 @@
 ---
-title: "Wave Train"
-excerpt: "the little html code next to this means you could embed a youtube video right here <br/><img src='/images/500x300.png'>"
+title: "wave train for percussion trio"
+excerpt: "performance of wave train at channel noise 20 <br/><https://youtu.be/paDdUWDDEVk>"
 collection: compositions
 ---
 
-This is some text inside the Jazz Ensemble entry
+score can be found here: <https://drive.google.com/drive/folders/1v6vDAy-nJO3LzVT72uOu2tyaJPKmjMXM?usp=sharing>
