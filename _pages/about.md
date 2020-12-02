@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<br/><img src='/images/500x300.png'>
+<br/><img src='/oops.jpg'>
 
 
 I graduated from Georgia Southern University with bachelor's degree in music performance with an emphasis in percussion performance, and I am currently persuing a master's degree in music technology. My current work is in interactive drumset composition.
