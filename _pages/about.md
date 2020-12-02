@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-![myimage](path/to/my/oops.jpg)
+![oops](images/oops.jpg)
 
 
 
