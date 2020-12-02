@@ -1,6 +1,6 @@
 ---
 title: "sckickida"
-excerpt: "yeah brother<br/><img src='/images/500x300.png'>"
+excerpt: "yeah brother<br/><https://youtu.be/DBW2rzfuuxs'>"
 collection: compositions
 ---
 
