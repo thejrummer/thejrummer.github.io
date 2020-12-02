@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "jarrett thompson // thejrummer"
 title_separator          : "-"
 name                     : &name "Jarrett Thompson"
-description              : &description "drummer // percussionist // music technologist"
+description              : &description "drummer // percussionist // music technologist "
 url                      : https://thejrummer.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "jarrett thompson"
   avatar           : "jarrettSmilingDrumming.jpg"
-  bio              : "drummer // percussionist // music technologist // graphic designer // painter"
+  bio              : "drummer // percussionist // music technologist // graphic designer // painter // composer"
   location         : "statesboro, georgia"
   employer         :  
   pubmed           : 
