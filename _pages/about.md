@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<img src='/oops.jpg'>
+![myimage](path/to/my/oops.jpg)
 
 
 
