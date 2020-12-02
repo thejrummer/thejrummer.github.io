@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<br/><img src='/oops.jpg'>
+<img src='/oops.jpg'>
 
 
 
