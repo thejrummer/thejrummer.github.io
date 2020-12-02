@@ -10,7 +10,8 @@ redirect_from:
 <br/><img src='/oops.jpg'>
 
 
-I graduated from Georgia Southern University with bachelor's degree in music performance with an emphasis in percussion performance, and I am currently persuing a master's degree in music technology. My current work is in interactive drumset composition.
+
+Howdy! My name is Jarrett Thompson, I'm a freelance drummer/percussionist, composer, graphic designer, painter, and sound engineer. If you can't tell from the long list of things I just rattled off, I love making art. I currently live in Statesboro, Georgia with my wife Loren and our two pups. In 2019 I graduated from Georgia Southern University with a Bachelor's of Music in Percussion Performance. Currently, I am pursuing my Master's of Music in Music Technology. I am the co-owner of Blume Sound LLC. 
 
 
 
