@@ -113,7 +113,7 @@ author:
   vine             :
   weibo            :
   xing             :
-  youtube          :
+  youtube          : "https://www.youtube.com/channel/UCBk61hhOfrR7kQriQEFbj0g"
   wikipedia        :
 
 
@@ -195,6 +195,9 @@ collections:
     output: true
     permalink: /:collection/:path/
   projects:
+    output: true
+    permalink: /:collection/:path/
+  gallery:
     output: true
     permalink: /:collection/:path/
 
