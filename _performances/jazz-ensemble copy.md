@@ -1,6 +1,6 @@
 ---
-title: "Play of the Game"
-excerpt: "if you clink the link it opens up its own webpage<br/><img src='/images/500x300.png'>"
+title: "Performance Excerpts"
+excerpt: "if you clink the link it opens up its own webpage<br/><https://youtu.be/CYiqUs1DgTQ>"
 collection: performances
 ---
 
