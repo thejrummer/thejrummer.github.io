@@ -19,13 +19,14 @@ Work experience
 * Fall 2019/Spring 2020: Recording Crew Manager
   * Georgia Southern University 
   * Duties included: 
+     * Maintaing equipment   
+     * Assigning crew members to respective performances
+     * Uploading recordings to the site
+     * Locating archived recordings
+     * Converting old format recordings to digital
   
-      * Sub-skill 2.1
-  
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
+  * Fall 2020: 
+  * Gep University
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
   
