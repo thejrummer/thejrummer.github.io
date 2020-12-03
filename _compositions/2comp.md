@@ -1,8 +1,8 @@
 ---
 title: "closure"
-excerpt: "performance of closure//
+excerpt: "performance of closure //
 
-performed by Jarrett Thompson//
+performed by Jarrett Thompson //
 
 click image below to watch
 
