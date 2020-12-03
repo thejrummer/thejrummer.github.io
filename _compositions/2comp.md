@@ -1,6 +1,12 @@
 ---
 title: "closure"
-excerpt: "performance of closure by myself in my home, click image below to watch <br/>[![IMAGE ALT TEXT](/images/closureScoreCover.png)](https://youtu.be/ff7YUBh3LeM)"
+excerpt: "performance of closure 
+
+performed by Jarrett Thompson
+
+click image below to watch
+
+<br/>[![IMAGE ALT TEXT](/images/closureScoreCover.png)](https://youtu.be/ff7YUBh3LeM)"
 collection: compositions
 ---
 
