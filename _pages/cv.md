@@ -11,15 +11,18 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.M. in Percussion Performance, Georgia Southern University, 2019
+* M.M. in Music Technology, Georgia Southern University, (in progress)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
+* Fall 2019/Spring 2020: Recording Crew Manager
+  * Georgia Southern University 
+  * Duties included: 
+   * Maintaining Equipment
+   * Assigning Crew Members to Performances
+   *  
+  
   * Supervisor: Professor Git
 
 * Fall 2015: Research Assistant
