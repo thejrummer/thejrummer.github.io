@@ -19,9 +19,8 @@ Work experience
 * Fall 2019/Spring 2020: Recording Crew Manager
   * Georgia Southern University 
   * Duties included: 
-   * Maintaining Equipment
-   * Assigning Crew Members to Performances
-   *  
+  
+      * Sub-skill 2.1
   
   * Supervisor: Professor Git
 
