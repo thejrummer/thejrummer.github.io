@@ -78,28 +78,39 @@ Skills
     * [Cycling 74's Max/MSP](https://cycling74.com/products/max)
     * [Cockos' Reaper DAW](https://www.reaper.fm/) 
     * [SuperCollider](https://supercollider.github.io/)
+    * [RME TotalMix FX](https://www.rme-usa.com/totalmix-fx.html)
+    * [Audinate Dante](https://www.audinate.com/)
     * [Adobe Illustrator](https://www.adobe.com/products/illustrator.html?sdid=KKQML&mv=search&ef_id=Cj0KCQiA2af-BRDzARIsAIVQUOdfm96CDZAez0isva0IU5TksyRl6hJWQJLr6fpYnU2Vvane5tKn2gMaAqnTEALw_wcB:G:s&s_kwcid=AL!3085!3!442365417815!e!!g!!adobe%20illustrator&gclid=Cj0KCQiA2af-BRDzARIsAIVQUOdfm96CDZAez0isva0IU5TksyRl6hJWQJLr6fpYnU2Vvane5tKn2gMaAqnTEALw_wcB)
     * [Adobe Premiere Pro](https://www.adobe.com/products/premiere.html?sdid=KKQOM&mv=search&kw=test&ef_id=Cj0KCQiA2af-BRDzARIsAIVQUOcgzlWSNKNqC26yav4rZP3RpDhfalCKOrmwt0Q0EvvI0IUkz9DQuQsaAv0-EALw_wcB:G:s&s_kwcid=AL!3085!3!469900475437!e!!g!!adobe%20premiere&gclid=Cj0KCQiA2af-BRDzARIsAIVQUOcgzlWSNKNqC26yav4rZP3RpDhfalCKOrmwt0Q0EvvI0IUkz9DQuQsaAv0-EALw_wcB)
     * [Adobe After Effects](https://www.adobe.com/products/aftereffects.html?sdid=KKQOW&mv=search&kw=test&ef_id=Cj0KCQiA2af-BRDzARIsAIVQUOeCudQ326-1ksNUeSddYX_4rJeQ0heZ5tdsVVSqdVWt6XhmegghgwIaAtwtEALw_wcB:G:s&s_kwcid=AL!3085!3!469900475185!e!!g!!adobe%20after%20effects&gclid=Cj0KCQiA2af-BRDzARIsAIVQUOeCudQ326-1ksNUeSddYX_4rJeQ0heZ5tdsVVSqdVWt6XhmegghgwIaAtwtEALw_wcB)
     * [Procreate](https://procreate.art/)
     * [Musescore](https://musescore.org/en)
     * [Avid Protools](https://www.avid.com)
+    * [Logic Pro X](https://www.apple.com/logic-pro/)
+    * [Behringer/Midas x32/m32 Mixing Boards](https://www.behringer.com/product.html?modelCode=P0ASF)
+    * [Solid State Logic AWS 948 Mixing Desk](https://www.solid-state-logic.co.jp/docs/AWS_Owners_Manual.pdf)
+    
 
 * Tactile Skills
-  * Intermediate Carpentry/Woodworking Skills
-  
-* Software Experience
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
+  * Carpentry/Woodworking Skills
+  * Soldering Skills
+  * Automotive Maintainence Skills
+  * Basic Metalworking/Welding Skills
+  * Professional painter 
 
-
-Publications
+Notable Performances
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
+* 2020 [Channel Noise Concert Series](https://thegeorgeanne.com/1025/reflector/reflector-arts-entertainment/channel-noise-xx-the-final-chapter/)
+* 2020 [Georgia Music Educators Conference](https://www.gmea.org/)
+  * [Georgia Southern Jazz Ensemble](https://cah.georgiasouthern.edu/music/areas/jazz/) 
+  * Selected Works with [Harry Watters](http://www.harrywatters.com/)
+* 2019 [Savannah Jazz Festival](https://savannahjazz.org/)
+  * Selected works with the Georgia Southern Jazz Ensemble and 
+  the Georgia Southern Jazz Combo
+* 2019 Georgia Music Educators Conference
+  * Performance of [Julie Giroux's Symphony No. V Elements](https://www.juliegiroux.org/symphony-no-v-elements)
+* 2018 Savannah Jazz Festival
+
 Talks
 ======
   <ul>{% for post in site.talks %}
