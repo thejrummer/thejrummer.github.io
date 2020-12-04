@@ -10,7 +10,11 @@ redirect_from:
 {% include base_path %}
 
 
-Education
+Paintings
 ======
-* B.M. in Percussion Performance, Georgia Southern University, 2019
-* M.M. in Music Technology, Georgia Southern University, (in progress)
+
+
+
+
+
+
