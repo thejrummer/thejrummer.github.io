@@ -44,7 +44,7 @@ Work experience
      * Composing drum features, cadences, and warm-ups
 
 * Fall 2019 - Spring 2020: Concert Percussion Instructor
-  * Screven County Middle School
+* Screven County Middle School
   * Duties included: 
      * Establishing fundamental concepts with middle school students
      * Teaching students how to read basic music notation
