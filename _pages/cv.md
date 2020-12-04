@@ -82,6 +82,8 @@ Skills
     * [Adobe Premiere Pro](https://www.adobe.com/products/premiere.html?sdid=KKQOM&mv=search&kw=test&ef_id=Cj0KCQiA2af-BRDzARIsAIVQUOcgzlWSNKNqC26yav4rZP3RpDhfalCKOrmwt0Q0EvvI0IUkz9DQuQsaAv0-EALw_wcB:G:s&s_kwcid=AL!3085!3!469900475437!e!!g!!adobe%20premiere&gclid=Cj0KCQiA2af-BRDzARIsAIVQUOcgzlWSNKNqC26yav4rZP3RpDhfalCKOrmwt0Q0EvvI0IUkz9DQuQsaAv0-EALw_wcB)
     * [Adobe After Effects](https://www.adobe.com/products/aftereffects.html?sdid=KKQOW&mv=search&kw=test&ef_id=Cj0KCQiA2af-BRDzARIsAIVQUOeCudQ326-1ksNUeSddYX_4rJeQ0heZ5tdsVVSqdVWt6XhmegghgwIaAtwtEALw_wcB:G:s&s_kwcid=AL!3085!3!469900475185!e!!g!!adobe%20after%20effects&gclid=Cj0KCQiA2af-BRDzARIsAIVQUOeCudQ326-1ksNUeSddYX_4rJeQ0heZ5tdsVVSqdVWt6XhmegghgwIaAtwtEALw_wcB)
     * [Procreate](https://procreate.art/)
+    * [Musescore](https://musescore.org/en)
+    * [Avid Protools](https://www.avid.com)
 
 * Tactile Skills
   * Intermediate Carpentry/Woodworking Skills
