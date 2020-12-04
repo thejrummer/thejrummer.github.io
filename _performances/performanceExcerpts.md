@@ -1,6 +1,6 @@
 ---
 title: "Performance Excerpts"
-excerpt: "a brief collection of past performances<br/>[![IMAGE ALT TEXT](../images/jarrettMask.png)](https://www.youtube.com/watch?v=CYiqUs1DgTQ)"
+excerpt: "a brief collection of past performances // click the image below to watch<br/>[![IMAGE ALT TEXT](../images/jarrettMask.png)](https://www.youtube.com/watch?v=CYiqUs1DgTQ)"
 collection: performances
 ---
 
