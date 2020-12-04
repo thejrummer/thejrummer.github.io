@@ -108,8 +108,10 @@ Notable Performances
 * 2019 [Savannah Jazz Festival](https://savannahjazz.org/)
   * Selected works with the Georgia Southern Jazz Ensemble and 
   the Georgia Southern Jazz Combo
+* 2019 Senior Recital
 * 2019 Georgia Music Educators Conference
   * Performance of [Julie Giroux's Symphony No. V Elements](https://www.juliegiroux.org/symphony-no-v-elements)
+* 2018 Junior Recital
 * 2018 Savannah Jazz Festival
 
 Awards/Organizations
