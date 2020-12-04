@@ -75,9 +75,13 @@ Skills
 ======
 * Technological Skills
   * Extensive experience with:
-    * Cycling 74's Max/MSP
+    * [Cycling 74's Max/MSP](https://cycling74.com/products/max)
     * [Cockos' Reaper DAW](https://www.reaper.fm/) 
-    * 
+    * [SuperCollider](https://supercollider.github.io/)
+    * [Adobe Illustrator](https://www.adobe.com/products/illustrator.html?sdid=KKQML&mv=search&ef_id=Cj0KCQiA2af-BRDzARIsAIVQUOdfm96CDZAez0isva0IU5TksyRl6hJWQJLr6fpYnU2Vvane5tKn2gMaAqnTEALw_wcB:G:s&s_kwcid=AL!3085!3!442365417815!e!!g!!adobe%20illustrator&gclid=Cj0KCQiA2af-BRDzARIsAIVQUOdfm96CDZAez0isva0IU5TksyRl6hJWQJLr6fpYnU2Vvane5tKn2gMaAqnTEALw_wcB)
+    * [Adobe Premiere Pro](https://www.adobe.com/products/premiere.html?sdid=KKQOM&mv=search&kw=test&ef_id=Cj0KCQiA2af-BRDzARIsAIVQUOcgzlWSNKNqC26yav4rZP3RpDhfalCKOrmwt0Q0EvvI0IUkz9DQuQsaAv0-EALw_wcB:G:s&s_kwcid=AL!3085!3!469900475437!e!!g!!adobe%20premiere&gclid=Cj0KCQiA2af-BRDzARIsAIVQUOcgzlWSNKNqC26yav4rZP3RpDhfalCKOrmwt0Q0EvvI0IUkz9DQuQsaAv0-EALw_wcB)
+    * [Adobe After Effects](https://www.adobe.com/products/aftereffects.html?sdid=KKQOW&mv=search&kw=test&ef_id=Cj0KCQiA2af-BRDzARIsAIVQUOeCudQ326-1ksNUeSddYX_4rJeQ0heZ5tdsVVSqdVWt6XhmegghgwIaAtwtEALw_wcB:G:s&s_kwcid=AL!3085!3!469900475185!e!!g!!adobe%20after%20effects&gclid=Cj0KCQiA2af-BRDzARIsAIVQUOeCudQ326-1ksNUeSddYX_4rJeQ0heZ5tdsVVSqdVWt6XhmegghgwIaAtwtEALw_wcB)
+    * [Procreate](https://procreate.art/)
 
 * Tactile Skills
   * Intermediate Carpentry/Woodworking Skills
