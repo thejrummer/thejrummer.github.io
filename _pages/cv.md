@@ -100,6 +100,7 @@ Skills
 
 Notable Performances
 ======
+* 2020 Premiere of Francisco Corthey's [*erre*](https://www.youtube.com/watch?v=MhOF9UN2f2A)
 * 2020 [Channel Noise Concert Series](https://thegeorgeanne.com/1025/reflector/reflector-arts-entertainment/channel-noise-xx-the-final-chapter/)
 * 2020 [Georgia Music Educators Conference](https://www.gmea.org/)
   * [Georgia Southern Jazz Ensemble](https://cah.georgiasouthern.edu/music/areas/jazz/) 
@@ -111,18 +112,26 @@ Notable Performances
   * Performance of [Julie Giroux's Symphony No. V Elements](https://www.juliegiroux.org/symphony-no-v-elements)
 * 2018 Savannah Jazz Festival
 
-Talks
+Awards/Organizations
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+* Awarded the Rank of Eagle Scout in 2015
+* Recipient of the 2019/2020 Lewis Stuart Jazz Scholarships
+* Recipient of a 2019 Carol A. Carter Scholarship 
+* Alumni Member of Phi Mu Alpha Sinfonia Music Fraternity 
   
-Teaching
+Notable Ensembles
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
+* Georgia Southern Jazz Combo (Leader/Core Drummer)
+* Georgia Southern Jazz Ensemble (Core Drummer)
+* Georgia Southern Symphonic Wind Ensemble (Percussionist)
+* Georgia Southern Symphony (Principle Timpanist)
+* Georgia Southern Wind Symphony (Percussionist)
+* Georgia Southern Net Squad (Core Drummer) 
+* Georgia Southern Hoop Troop (Core Drummer) 
+* Georgia Southern Marching Band (Tenor Drums) 
+* Georgia Southern Percussion Ensemble 
+
+
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
