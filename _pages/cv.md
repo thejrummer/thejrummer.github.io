@@ -134,6 +134,13 @@ Notable Ensembles
 * [Hip-Oh! Local HipHop/Funk Band](https://www.youtube.com/watch?v=_Gd8PbdFR-M) (Drummer) 
 
 
-Service and leadership
+Studio Recordings
 ======
-* Currently signed in to 43 different slack teams
+* [Mary Jane](https://www.youtube.com/watch?v=_Gd8PbdFR-M) Single by Hip-Oh! (Drums/Percussion/Production)
+* [Little Fish](https://www.youtube.com/watch?v=XBDf9AOVZJ8) Single by Play of the Game (Drums/Vibraphone/Production)
+* [Suburbs](https://www.youtube.com/watch?v=a6RLQJnKSzI) Single by Hard Fabric (Percussion/BGVs/Rec Engineer/Mix Engineer/Master Engineer)
+* [Hot Garbage](https://www.youtube.com/watch?v=p4XBxnRM4OQ&list=OLAK5uy_n7Jlm8UqLwUYgF0xKuY0Ol9KW8DJ36hG8) EP by Bullmoose (Drums)
+* [The Michael Jordan of Baseball](https://www.youtube.com/watch?v=5aV4oRdfPtY&list=OLAK5uy_mmaak2pBDiKdBa7VTeMBpgSTdhlral-jQ) EP by Birdperson (Drums)
+* [Daisy Dogs](https://www.youtube.com/watch?v=r6c_AnuHal0&list=OLAK5uy_kgt6_3gA-Dc-Xyb9bDBznUlpiLdG9s7fQ) EP by Birdperson (Drums)
+* [Birdperson May 2017 Live Session](https://www.youtube.com/watch?v=XX3yCctF5Bs) at Toast and Jam Studios (Drums)
+* [The Best Part of Being Young, The Worst Part of Growing Up](https://www.youtube.com/watch?v=s2a3QYtIG6w) Album by Hard Fabric (Percussion)
