@@ -132,8 +132,8 @@ Notable Ensembles
 * Georgia Southern Hoop Troop (Core Drummer) 
 * Georgia Southern Marching Band (Tenor Drums) 
 * Georgia Southern Percussion Ensemble 
-* [Play of the Game Local Jazz/Funk Collective](https://www.youtube.com/watch?v=FR_n7_dB_QA&t=88s) (Drummer/Back-Up Vocalist)
-* [Hip-Oh! Local HipHop/Funk Band](https://www.youtube.com/watch?v=_Gd8PbdFR-M) (Drummer) 
+* [Play of the Game Local Jazz/Funk Collective](https://www.instagram.com/playofthegameband/) (Drummer/Back-Up Vocalist)
+* [Hip-Oh! Local HipHop/Funk Band](https://www.instagram.com/hipohmusic/) (Drummer) 
 
 
 Studio Recordings
