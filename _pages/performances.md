@@ -15,6 +15,12 @@ a brief collection of past performances
 
 <iframe width="1730" height="631" src="https://www.youtube.com/embed/AeD0BypYnl8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+### *erre*
+
+<iframe width="1730" height="631" src="https://www.youtube.com/embed/MhOF9UN2f2A" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+world premiere of Francisco Corthey's piece *erre*
+
 
 ### *A Night in Tunisia* 
 
