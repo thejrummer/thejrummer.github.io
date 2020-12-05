@@ -1,6 +1,6 @@
 ---
 layout: archive
-permalink: /compositions
+permalink: /compositions/
 title: "Compositions"
 excerpt: "compositions"
 author_profile: true

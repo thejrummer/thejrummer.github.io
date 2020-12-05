@@ -1,6 +1,6 @@
 ---
 layout: archive
-permalink: /projects
+permalink: /projects/
 title: "Projects"
 excerpt: "a brief collection of past performances"
 author_profile: true
