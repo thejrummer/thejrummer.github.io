@@ -18,7 +18,7 @@ a short playlist of compositions written by me
   score available [here](https://drive.google.com/drive/u/1/folders/1XlC47I4UngxtL_KRwJRbFLmh2--7GHs5)
 
 4:30 - 8:30 //  *wave train* // piece for three percussionists and tape loops 
-score available [here] (https://drive.google.com/drive/u/1/folders/1v6vDAy-nJO3LzVT72uOu2tyaJPKmjMXM)
+score available [here](https://drive.google.com/drive/u/1/folders/1v6vDAy-nJO3LzVT72uOu2tyaJPKmjMXM)
 
 
 8:30 - 14:55 // *less than fidelity* // piece for three person ensemble and tape loops

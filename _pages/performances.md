@@ -42,5 +42,8 @@ git checkout -b BRANCH :::::: create a new branch called BRANCH
 
 git checkout BRANCH :::::: switch your codebase to an existing branch called BRANCH
 
-git branch -a :::::: view all available branches -->
+git branch -a :::::: view all available branches 
+
+git merge NEWBRANCH (over current branch)
+-->
 
