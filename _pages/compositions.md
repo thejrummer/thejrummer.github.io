@@ -5,6 +5,7 @@ title: "Compositions"
 excerpt: "compositions"
 author_profile: true
 redirect_from:
+  - /resume
 ---
 
 ### Composition Playlist 

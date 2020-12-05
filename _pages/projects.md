@@ -5,7 +5,7 @@ title: "Projects"
 excerpt: "a brief collection of past performances"
 author_profile: true
 redirect_from:
-
+  - /project
 ---
 
 
