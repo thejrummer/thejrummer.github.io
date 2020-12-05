@@ -16,7 +16,7 @@ a brief collection of past performances
 <iframe width="1730" height="631" src="https://www.youtube.com/embed/AeD0BypYnl8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-### A Night in Tunisia 
+### *A Night in Tunisia* 
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1CHCJZ3cdZQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -26,6 +26,13 @@ drums: Jarrett Thompson
 guitar: Hugo Flores  
 piano: Ryan Devens  
 bass: Zach Futch  
+
+### *Sweet Georgia Upside Down*
+
+
+<iframe width="1730" height="631" src="https://www.youtube.com/embed/A5dsM0dlXto" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Performed by the 2018 Georgia Southern Jazz Ensemble
 
 
 <!-- useful git commands:
