@@ -4,7 +4,8 @@ permalink: /performances/
 title: "Performances"
 excerpt: "a brief collection of past performances"
 author_profile: true
-
+redirect_from:
+  - /resume
 ---
 
 
