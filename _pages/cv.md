@@ -120,7 +120,16 @@ Awards/Organizations
 * Recipient of the 2019/2020 Lewis Stuart Jazz Scholarships
 * Recipient of a 2019 Carol A. Carter Scholarship 
 * Alumni Member of Phi Mu Alpha Sinfonia Music Fraternity 
-  
+
+Press
+======
+* [‘All music, all the time’ Georgia Southern grad student pursuing drumming passion](https://www.wsav.com/photog-showcase/all-music-all-the-time-georgia-southern-grad-student-pursuing-drumming-passion/)
+* [Hip-Oh: An Exploration of the Band’s Eclectic Sound](https://thegeorgeanne.com/22645/reflector/hip-oh-an-exploration-of-the-bands-eclectic-sound/)
+* [Event Preview: Channel Noise XX](https://thegeorgeanne.com/999/reflector/reflector-arts-entertainment/event-preview-channel-noise-xx/)
+* [Channel Noise XX Night Two: An Exploration of Sounds](https://thegeorgeanne.com/961/reflector/reflector-arts-entertainment/channel-noise-xx-night-two-an-exploration-of-sounds/)
+* [Channel Noise XX: The Final Chapter](https://thegeorgeanne.com/1025/reflector/reflector-arts-entertainment/channel-noise-xx-the-final-chapter/)
+* [Georgia Southern University Department of Music presents Senior Recital Jarrett Thompson, percussion](https://calendar.georgiasouthern.edu/event/georgia_southern_university_department_of_music_presents_4253#.X8u7i2hKiUk)
+
 Notable Ensembles
 ======
 * Georgia Southern Jazz Combo (Leader/Core Drummer)
