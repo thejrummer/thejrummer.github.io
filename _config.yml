@@ -191,9 +191,6 @@ collections:
   compositions:
     output: true
     permalink: /:collection/:path/
-  performances:
-    output: true
-    permalink: /:collection/:path/
   projects:
     output: true
     permalink: /:collection/:path/
