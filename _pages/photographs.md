@@ -11,7 +11,6 @@ redirect_from:
 
 
 ## Paintings
-======
 
 ### *ghouls no. 1*
 ![Editing a markdown file for a talk](/images/mitchMcConnell.png)
