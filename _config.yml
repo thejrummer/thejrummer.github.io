@@ -188,15 +188,7 @@ collections:
     output: true
     permalink: /:collection/:path/
 
-  compositions:
-    output: true
-    permalink: /:collection/:path/
-  projects:
-    output: true
-    permalink: /:collection/:path/
-  gallery:
-    output: true
-    permalink: /:collection/:path/
+
 
 
 # Defaults

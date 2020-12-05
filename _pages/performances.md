@@ -1,16 +1,15 @@
 ---
-permalink: /
+permalink: /performances
 title: "Performances"
 excerpt: "a brief collection of past performances"
 author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
+
 ---
 
 
-### Excerpts
+### Performance Excerpts
 
+a brief collection of past performances
 
 <iframe width="853" height="480" src="https://www.youtube.com/embed/CYiqUs1DgTQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
 
