@@ -1,4 +1,5 @@
 ---
+layout: archive
 permalink: /compositions
 title: "Compositions"
 excerpt: "compositions"

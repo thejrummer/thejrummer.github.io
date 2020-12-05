@@ -1,5 +1,6 @@
 ---
-permalink: /performances
+layout: archive
+permalink: /performances/
 title: "Performances"
 excerpt: "a brief collection of past performances"
 author_profile: true
