@@ -21,7 +21,7 @@ a short playlist of compositions written by me
 score available [here](https://drive.google.com/drive/u/1/folders/1v6vDAy-nJO3LzVT72uOu2tyaJPKmjMXM)
 
 
-8:30 - 14:55 // *less than fidelity* // piece for three person ensemble and tape loops
+8:30 - 14:55 // *lessThanFidelity* // piece for three person ensemble and tape loops
  score available [here](https://drive.google.com/drive/u/1/folders/1mhtFRp0ycJLNuu3sAHLykTp6t3K9tPfA)
 
 all current works with scores can be found [here](https://drive.google.com/drive/u/1/folders/1anau1rmOPwZfljYdsBqpvXoeg8iwjX0D)
@@ -37,3 +37,9 @@ all current works with scores can be found [here](https://drive.google.com/drive
 <iframe width="1730" height="631" src="https://www.youtube.com/embed/paDdUWDDEVk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 *wave train* // piece for three percussionists and tape loops 
+
+### *lessThanFidelity*
+
+<iframe width="1730" height="631" src="https://www.youtube.com/embed/dAgPhTFxQxo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+*lessThanFidelity* // piece for guitar, piano, drums, and tape loops
