@@ -20,7 +20,7 @@ this is a 4' by 2' piece I painted over the summer of senator Mitch McConnell.
 ### *ghouls no. 2*
 ![Editing a markdown file for a talk](/images/brianKemp.png)
 
-this is a 1' 5" by 1' 5" piece I painted over the summer of governor Brian Kemp.
+this is a 1' 5" by 1' 5" piece I painted over the summer of Georgia governor Brian Kemp.
 
 ### commissioned snare drum
 ![Editing a markdown file for a talk](/images/drumJakeLiddy.png)
