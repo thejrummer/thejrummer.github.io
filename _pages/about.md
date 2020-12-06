@@ -11,9 +11,9 @@ redirect_from:
 
 Howdy! My name is Jarrett Thompson, I'm a freelance drummer/percussionist, composer, graphic designer, painter, sound engineer, and maker. I currently live in Statesboro, Georgia with my wife Loren and our two pups. In 2019 I graduated from Georgia Southern University with a Bachelor's of Music in Percussion Performance. Currently, I am pursuing my Master's of Music in Music Technology.
 
-My current interests lie in interactive percussion composition
+![Editing a markdown file for a talk](/images/jarrettMask.png)
 
-
+My current interests lie in interactive drum set composition. Check out the rest of the site to see some past projects, performances, and compositions of mine!
 
 <!-- # Header 1
 ## Header 2
