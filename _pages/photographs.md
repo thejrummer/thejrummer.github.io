@@ -28,7 +28,7 @@ this is a 1' 5" by 1' 5" piece I painted over the summer of Georgia governor Bri
 
 this is a snare drum  I was commissioned to paint of the summer of 2020.
 
-### personal drum set
+### my personal drum set
 ![Editing a markdown file for a talk](/images/drumSetPainting.png)
 
 this is my own personal drum set that I painted in the winter of 2020.

@@ -26,6 +26,12 @@ score available [here](https://drive.google.com/drive/u/1/folders/1v6vDAy-nJO3Lz
 
 all current works with scores can be found [here](https://drive.google.com/drive/u/1/folders/1anau1rmOPwZfljYdsBqpvXoeg8iwjX0D)
 
+### *husk meditations*
+
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/BZuW3hKgIJk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+*husk meditations* // piece for interactive drumset
+
 ### *closure*
 
 <iframe width="1730" height="631" src="https://www.youtube.com/embed/ff7YUBh3LeM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
