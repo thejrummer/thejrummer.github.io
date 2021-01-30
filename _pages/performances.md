@@ -71,5 +71,7 @@ git checkout BRANCH :::::: switch your codebase to an existing branch called BRA
 git branch -a :::::: view all available branches 
 
 git merge NEWBRANCH (over current branch)
+
+uploading new stuff [ git add . / git commit -m "thing" / git push -u origin branch(development, main) ]
 -->
 
