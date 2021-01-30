@@ -89,6 +89,7 @@ Skills
     * [Logic Pro X](https://www.apple.com/logic-pro/)
     * [Behringer/Midas x32/m32 Mixing Boards](https://www.behringer.com/product.html?modelCode=P0ASF)
     * [Solid State Logic AWS 948 Mixing Desk](https://www.solid-state-logic.co.jp/docs/AWS_Owners_Manual.pdf)
+    * [Focusrite Pro Rednet Core Certified](https://pro.focusrite.com/)
     
 
 * Tactile Skills
