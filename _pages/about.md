@@ -15,6 +15,5 @@ Howdy! My name is Jarrett Thompson, I'm a freelance drummer/percussionist, compo
 
 My current interests lie in interactive drum set composition. Check out the rest of the site to see some past projects, performances, and compositions of mine!
 
- ![Editing a markdown file for a talk](/images/Core-Training-Rednet_Certification-Badge.png)
 
 
