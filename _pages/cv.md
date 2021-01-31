@@ -14,7 +14,7 @@ Education
 * B.M. in Percussion Performance, Georgia Southern University, 2019
 * M.M. in Music Technology, Georgia Southern University, (in progress)
 
-Work experience
+Work Experience
 ======
  * Spring 2021 Aural I & II Teaching Assistant/Instructor: 
  * Georgia Southern University
