@@ -100,7 +100,7 @@ Skills
 
 * Certifications 
  * [Focusrite Pro Rednet Core Certified](https://pro.focusrite.com/)    
- * ![Editing a markdown file for a talk](/images/Core-Training-Rednet_Certification-Badge.png)
+ ![Editing a markdown file for a talk](/images/Core-Training-Rednet_Certification-Badge.png)
 
 * Tactile Skills
   * Carpentry/Woodworking Skills
