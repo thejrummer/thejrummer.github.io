@@ -99,7 +99,7 @@ Skills
     * [Solid State Logic AWS 948 Mixing Desk](https://www.solid-state-logic.co.jp/docs/AWS_Owners_Manual.pdf)
 
 * Certifications 
-   * [Focusrite Pro Rednet Core Certified](https://pro.focusrite.com/)    
+  * [Focusrite Pro Rednet Core Certified](https://pro.focusrite.com/)    
 
 
 * Tactile Skills
