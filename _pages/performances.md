@@ -28,10 +28,6 @@ world premiere of Francisco Corthey's piece *erre*
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1CHCJZ3cdZQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 arranged by Hugo Flores and Jarrett Thompson  
-drums: Jarrett Thompson  
-guitar: Hugo Flores  
-piano: Ryan Devens  
-bass: Zach Futch  
 
 
 ### *Lake Sprinkle Sprankle* 
