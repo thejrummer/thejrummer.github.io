@@ -36,19 +36,38 @@ arranged by Hugo Flores and Jarrett Thompson
 
 a quick drum cover i made in quarantine 2020
 
+
 ### *More* - Flying Lotus - Drum Cover
 
 <iframe width="1730" height="631" src="https://www.youtube.com/embed/Y4lFz8dQAuM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 a quick drum cover i made in the summer of 2019
 
-### *Sweet Georgia Upside Down*
 
+### *GSU Percussion Ensemble Concert*
+
+<iframe width="1903" height="743" src="https://www.youtube.com/embed/mcjNtfVnZdg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Performed by the 2020 GSU Percussion Ensemble  // see credits for featured works
+
+
+### *Sweet Georgia Upside Down*
 
 <iframe width="1730" height="631" src="https://www.youtube.com/embed/A5dsM0dlXto" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Performed by the 2018 Georgia Southern Jazz Ensemble
 
+### *2017 Toast and Jam Studio Live Session*
+
+<iframe width="1903" height="743" src="https://www.youtube.com/embed/XX3yCctF5Bs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Performed by BiRDPERSON
+
+### *Tradition*
+
+<iframe width="1903" height="743" src="https://www.youtube.com/embed/aL0Bc2voJ1M" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Performed by the 2015 Georgia Southern Drumline // center tenor
 
 <!-- useful git commands:
 
