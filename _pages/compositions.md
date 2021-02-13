@@ -30,7 +30,7 @@ all current works with scores can be found [here](https://drive.google.com/drive
 
 <iframe width="1280" height="720" src="https://www.youtube.com/embed/FtTmmaCounQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-*husk meditations* // piece for percussion and interactive electronics w/ interactive visual
+*seventypercentsilica* // piece for percussion and interactive electronics w/ interactive visual
 
 ### *husk meditations*
 
