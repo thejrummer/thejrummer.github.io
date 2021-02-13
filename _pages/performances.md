@@ -11,9 +11,9 @@ redirect_from:
 
 ### Performance Excerpts
 
-a brief collection of past performances
-
 <iframe width="1730" height="631" src="https://www.youtube.com/embed/AeD0BypYnl8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+a brief collection of past performances
 
 ### *erre*
 
@@ -24,11 +24,17 @@ world premiere of Francisco Corthey's piece *erre*
 
 ### *A Night in Tunisia* 
 
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1CHCJZ3cdZQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 arranged by Hugo Flores and Jarrett Thompson  
+ 
 
+### *Angels in the Architecture* 
+
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/WHpw8qHtARw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+with the Georgia Southern Symphonic Wind Ensemble 
+(I'm the one playing cymbals in the middle)
 
 ### *Lake Sprinkle Sprankle* 
 
@@ -36,6 +42,11 @@ arranged by Hugo Flores and Jarrett Thompson
 
 a quick drum cover i made in quarantine 2020
 
+### *Black Orpheus*
+
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/W2qKl-UNIz4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+at the Georgia Southern Gretsch School of Music 2019 Scholars Recital
 
 ### *More* - Flying Lotus - Drum Cover
 
