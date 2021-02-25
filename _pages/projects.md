@@ -20,7 +20,7 @@ electronic music with drumset-oriented control interfaces.
 
 click the image below to view paper.
 
-![thwack Paper]/(images/thwacKGUI.png)
+![thwack Paper](/images/thwacKGUI.png)
 
 ### SuperCollider Project
 
