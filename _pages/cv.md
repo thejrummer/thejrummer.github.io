@@ -14,7 +14,7 @@ Education
 * B.M. in Percussion Performance, Georgia Southern University, 2019
 * M.M. in Music Technology, Georgia Southern University, (in progress)
 
-Work experience
+Work Experience
 ======
  * Spring 2021 Aural I & II Teaching Assistant/Instructor: 
  * Georgia Southern University
@@ -97,7 +97,9 @@ Skills
     * [Logic Pro X](https://www.apple.com/logic-pro/)
     * [Behringer/Midas x32/m32 Mixing Boards](https://www.behringer.com/product.html?modelCode=P0ASF)
     * [Solid State Logic AWS 948 Mixing Desk](https://www.solid-state-logic.co.jp/docs/AWS_Owners_Manual.pdf)
-    
+ 
+* Certifications 
+  * [Focusrite Pro Rednet Core Certified](https://pro.focusrite.com/) 
 
 * Tactile Skills
   * Carpentry/Woodworking Skills
