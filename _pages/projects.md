@@ -35,7 +35,7 @@ This is an application I made in Max to control chords from the drumset when my 
 
 ![spdsx image](/images/spdSXChord.png)
 
-  <p>click <a> href="https://github.com/thejrummer/SPDSX-Chord-Builder"target="_blank" rel="noopener noreferrer">here</a> to download the Max patch.</p>
+<p>click <a href="https://github.com/thejrummer/SPDSX-Chord-Builder"target="_blank" rel="noopener noreferrer">here</a> to download the Max patch.</p>
 
 ### *The Frame Problem* visualization
 
