@@ -22,7 +22,7 @@ click [here](https://drive.google.com/file/d/1QcuCru6chZE39PMPIwg584B9R1MqQKsw/v
 
 ![thwack Paper](/images/thwacKGUI.png)
 
-<p>Check out <a href="https://www.freecodecamp.org/">freeCodeCamp</a>.</p>
+<p>Check out <a href="https://www.freecodecamp.org/" target="_blank" rel="noopener noreferrer">freeCodeCamp</a>.</p>
 
 ### SuperCollider Project
 
