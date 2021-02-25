@@ -19,7 +19,7 @@ electronic music with drumset-oriented control interfaces.
 
  <p>click <a href="https://drive.google.com/file/d/1QcuCru6chZE39PMPIwg584B9R1MqQKsw/view?usp=sharing" target="_blank" rel="noopener noreferrer">here</a> to view the paper.</p> 
 
-  <p>click <a href="https://github.com/thejrummer/thwacK"target="_blank" rel="noopener noreferrer">here</a> to download the thwacK Max patch.</p> 
+ <p>click <a href="https://github.com/thejrummer/thwacK" target="_blank" rel="noopener noreferrer">here</a> to get thwacK.</p> 
 
 ![thwack Paper](/images/thwacKGUI.png)
 
@@ -35,7 +35,7 @@ This is an application I made in Max to control chords from the drumset when my 
 
 ![spdsx image](/images/spdSXChord.png)
 
-<p>click <a href="https://github.com/thejrummer/SPDSX-Chord-Builder"target="_blank" rel="noopener noreferrer">here</a> to download the Max patch.</p>
+ <p>click <a href="https://github.com/thejrummer/SPDSX-Chord-Builder" target="_blank" rel="noopener noreferrer">here</a> to download the patch.</p> 
 
 ### *The Frame Problem* visualization
 
