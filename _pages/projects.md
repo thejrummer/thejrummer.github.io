@@ -7,7 +7,18 @@ author_profile: true
 redirect_from:
   - /project
 ---
+### thwacK
 
+ABSTRACT:
+
+thwacK is an application created with Max/MSP that utilizes the drumset as a controller
+for interactive electronic music. thwacK utilizes gestural data from the drumset to playback
+predetermined samples of audio in various ways. thwacK is created to be used in improvisational
+contexts. This paper details and evaluates the overall design, motivation, and musical
+implementation of thwacK, as well as situate thwacK in the field of current systems for creating
+electronic music with drumset-oriented control interfaces.
+
+![thwackPaper]/i(mages/thwacKGUI.png)
 
 ### SuperCollider Project
 
