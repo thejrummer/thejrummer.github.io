@@ -19,6 +19,8 @@ electronic music with drumset-oriented control interfaces.
 
  <p>click <a href="https://drive.google.com/file/d/1QcuCru6chZE39PMPIwg584B9R1MqQKsw/view?usp=sharing" target="_blank" rel="noopener noreferrer">here</a> to view the paper.</p> 
 
+  <p>click <a href="https://github.com/thejrummer/thwacK">here</a> to download the thwacK Max patch.</p> 
+
 ![thwack Paper](/images/thwacKGUI.png)
 
 
