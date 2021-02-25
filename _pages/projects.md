@@ -22,6 +22,8 @@ click [here](https://drive.google.com/file/d/1QcuCru6chZE39PMPIwg584B9R1MqQKsw/v
 
 ![thwack Paper](/images/thwacKGUI.png)
 
+<p>Check out <a href="https://www.freecodecamp.org/">freeCodeCamp</a>.</p>
+
 ### SuperCollider Project
 
 This is an application I made for the final in my sound design class click the image below to watch an overly tired gradate student attempt to explain it.
