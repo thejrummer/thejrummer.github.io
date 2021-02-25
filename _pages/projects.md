@@ -18,7 +18,9 @@ contexts. This paper details and evaluates the overall design, motivation, and m
 implementation of thwacK, as well as situate thwacK in the field of current systems for creating
 electronic music with drumset-oriented control interfaces.
 
-![thwackPaper]/i(mages/thwacKGUI.png)
+click the image below to view paper.
+
+![thwack Paper]/i(mages/thwacKGUI.png)
 
 ### SuperCollider Project
 
