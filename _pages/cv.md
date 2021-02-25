@@ -16,6 +16,14 @@ Education
 
 Work experience
 ======
+ * Spring 2021 Aural I & II Teaching Assistant/Instructor: 
+ * Georgia Southern University
+    * Teaching two classes twice a week
+    * Managing class content/writing lesson plans 
+    * Assigning work/materials for students to study
+    * Writing quizzes/tests
+    * Ensuring that course requirements are met.
+
  * Fall 2020 Aural Skills/Sight-Singing Tutor: 
  * Georgia Southern University
     * Scheduling tutoring sessions with students 
