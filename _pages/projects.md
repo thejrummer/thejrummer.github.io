@@ -19,17 +19,23 @@ electronic music with drumset-oriented control interfaces.
 
  <p>click <a href="https://drive.google.com/file/d/1QcuCru6chZE39PMPIwg584B9R1MqQKsw/view?usp=sharing" target="_blank" rel="noopener noreferrer">here</a> to view the paper.</p> 
 
-  <p>click <a href="https://github.com/thejrummer/thwacK">here</a> to download the thwacK Max patch.</p> 
+  <p>click <a href="https://github.com/thejrummer/thwacK"target="_blank" rel="noopener noreferrer">here</a> to download the thwacK Max patch.</p> 
 
 ![thwack Paper](/images/thwacKGUI.png)
-
-
 
 ### SuperCollider Project
 
 This is an application I made for the final in my sound design class click the image below to watch an overly tired gradate student attempt to explain it.
 
 <iframe width="1730" height="631" src="https://www.youtube.com/embed/lOi8PRqyTMY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+### SPDSX Chord Builder
+
+This is an application I made in Max to control chords from the drumset when my band didn't have a guitar player for a few rehearsals. It mainly functions with FM8, but it could be mapped to another synth plug-in. 
+
+![spdsx image](/images/spdSXChord.png)
+
+  <p>click <a href="https://github.com/thejrummer/SPDSX-Chord-Builder"target="_blank" rel="noopener noreferrer">here</a> to download the Max patch.</p>
 
 ### *The Frame Problem* visualization
 
