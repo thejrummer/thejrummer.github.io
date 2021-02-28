@@ -17,7 +17,7 @@ a short playlist of compositions written by me
 0:00 - 4:30 //  *closure* // piece for interactive drumset
   score available [here](https://drive.google.com/drive/u/1/folders/1XlC47I4UngxtL_KRwJRbFLmh2--7GHs5)
 
-  <p>score available <a href="https://drive.google.com/drive/u/1/folders/1XlC47I4UngxtL_KRwJRbFLmh2--7GHs5">here</a> .</p> 
+  <p>score available <a href="https://drive.google.com/drive/u/1/folders/1XlC47I4UngxtL_KRwJRbFLmh2--7GHs5" target="_blank" rel="noopener noreferrer">here</a>.</p> 
 
 4:30 - 8:30 //  *wave train* // piece for three percussionists and tape loops 
 score available [here](https://drive.google.com/drive/u/1/folders/1v6vDAy-nJO3LzVT72uOu2tyaJPKmjMXM)
